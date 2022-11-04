@@ -1,0 +1,34 @@
+Event	ID	Name			Wwise Object Path	Notes
+	258110631	game_music			\Default Work Unit\game_music	
+	1602358412	play_footstep			\Default Work Unit\play_footstep	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1834394558	surface			\Default Work Unit\surface	
+
+Switch	ID	Name	Switch Group			Notes
+	787898836	snow	surface			
+	1216965916	stone	surface			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	163864634	snow_footsteps-007	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-007_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-007		190110
+	224615131	footstep_stone_2	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_2		57478
+	229340490	footstep_stone_10	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_10		66790
+	232244699	footstep_stone_1	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_1		48260
+	253208913	snow_footsteps-004	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-004		177088
+	254192225	snow_footsteps-003	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-003		145024
+	320062875	snow_footsteps-009	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-009_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-009		162620
+	380687480	footstep_stone_5	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_5		55802
+	386465276	footstep_stone_9	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_9		36526
+	445755775	flinstones_timewarp	Y:\Desktop\Wwise Project\.cache\Windows\SFX\flinstones_timewarp_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\flinstones_timewarp\flinstones_timewarp		9620864
+	531011539	footstep_stone_4	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_4		52868
+	564154673	footstep_stone_6	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_6		52450
+	594415834	snow_footsteps-010	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-010_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-010		210366
+	624140330	snow_footsteps-008	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-008_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-008		177088
+	642224031	snow_footsteps-006	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-006_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-006		194452
+	656534284	snow_footsteps-005	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-005		171302
+	808888639	footstep_stone_3	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_3		55382
+	857766153	footstep_stone_8	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_8		62508
+	1031110363	snow_footsteps-002	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-002		162672
+	1049907192	footstep_stone_7	Y:\Desktop\Wwise Project\.cache\Windows\SFX\footstep_stone_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_stone\footstep_stone_7		63764
+	1064817266	snow_footsteps-001	Y:\Desktop\Wwise Project\.cache\Windows\SFX\snow_footsteps-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\footsteps_snow\snow_footsteps-001		245824
+

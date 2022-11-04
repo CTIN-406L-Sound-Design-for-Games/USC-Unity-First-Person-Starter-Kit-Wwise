@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{802F60F3-2A56-4843-B640-8E51B2C6B29C}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{802F60F3-2A56-4843-B640-8E51B2C6B29C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_footstep" ID="{D67A283B-1165-49EA-91C7-F5BDECDB383D}">
+					<ChildrenList>
+						<Action Name="" ID="{EA8BF2C7-7FB8-4791-B7DC-05B7B24CD227}" ShortID="432763164">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footsteps" ID="{0ED96B52-F568-4CF4-B458-1FFD07EEE99C}" WorkUnitID="{6E320D74-DB60-4FA0-A353-F47EC00ABD62}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="game_music" ID="{534A61AF-D268-425F-83A8-DC7BE2E0143A}">
+					<ChildrenList>
+						<Action Name="" ID="{EE81CF64-D4B8-4392-A75B-7B7D44E397EF}" ShortID="501010229">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="flinstones_timewarp" ID="{F47AF17A-DF0D-4612-A5DF-325CB8B17290}" WorkUnitID="{7C35C044-FBF9-47B0-9A06-28EACD472AB7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

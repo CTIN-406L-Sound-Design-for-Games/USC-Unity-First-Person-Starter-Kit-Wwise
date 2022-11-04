@@ -162,6 +162,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void PlayFootStepAudio()
         {
+            AkSoundEngine.PostEvent("play_footstep" , this.gameObject);
+            
             if (!m_CharacterController.isGrounded)
             {
                 return;

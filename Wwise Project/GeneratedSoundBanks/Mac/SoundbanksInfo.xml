@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/michaelsweet/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Wwise Project/</ProjectRoot>
+		<SourceFilesRoot>/Users/michaelsweet/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Wwise Project/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/michaelsweet/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Wwise Project/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/michaelsweet/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Desktop/Wwise Project/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1149632" Language="SFX" Hash="3414361577">
+			<ObjectPath>\SoundBanks\Default Work Unit\Level1_SoundBank</ObjectPath>
+			<ShortName>Level1_SoundBank</ShortName>
+			<Path>Level1_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="258110631" Name="game_music" ObjectPath="\Events\Default Work Unit\game_music">
+					<IncludedMemoryFiles>
+						<File Id="445755775" Language="SFX">
+							<ShortName>flinstones_timewarp.wav</ShortName>
+							<Path>SFX/flinstones_timewarp_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1602358412" Name="play_footstep" ObjectPath="\Events\Default Work Unit\play_footstep">
+					<IncludedMemoryFiles>
+						<File Id="163864634" Language="SFX">
+							<ShortName>snow_footsteps-007.wav</ShortName>
+							<Path>SFX/snow_footsteps-007_10C4C929.wem</Path>
+						</File>
+						<File Id="224615131" Language="SFX">
+							<ShortName>footstep_stone_2.wav</ShortName>
+							<Path>SFX/footstep_stone_2_10C4C929.wem</Path>
+						</File>
+						<File Id="229340490" Language="SFX">
+							<ShortName>footstep_stone_10.wav</ShortName>
+							<Path>SFX/footstep_stone_10_10C4C929.wem</Path>
+						</File>
+						<File Id="232244699" Language="SFX">
+							<ShortName>footstep_stone_1.wav</ShortName>
+							<Path>SFX/footstep_stone_1_10C4C929.wem</Path>
+						</File>
+						<File Id="253208913" Language="SFX">
+							<ShortName>snow_footsteps-004.wav</ShortName>
+							<Path>SFX/snow_footsteps-004_10C4C929.wem</Path>
+						</File>
+						<File Id="254192225" Language="SFX">
+							<ShortName>snow_footsteps-003.wav</ShortName>
+							<Path>SFX/snow_footsteps-003_10C4C929.wem</Path>
+						</File>
+						<File Id="320062875" Language="SFX">
+							<ShortName>snow_footsteps-009.wav</ShortName>
+							<Path>SFX/snow_footsteps-009_10C4C929.wem</Path>
+						</File>
+						<File Id="380687480" Language="SFX">
+							<ShortName>footstep_stone_5.wav</ShortName>
+							<Path>SFX/footstep_stone_5_10C4C929.wem</Path>
+						</File>
+						<File Id="386465276" Language="SFX">
+							<ShortName>footstep_stone_9.wav</ShortName>
+							<Path>SFX/footstep_stone_9_10C4C929.wem</Path>
+						</File>
+						<File Id="531011539" Language="SFX">
+							<ShortName>footstep_stone_4.wav</ShortName>
+							<Path>SFX/footstep_stone_4_10C4C929.wem</Path>
+						</File>
+						<File Id="564154673" Language="SFX">
+							<ShortName>footstep_stone_6.wav</ShortName>
+							<Path>SFX/footstep_stone_6_10C4C929.wem</Path>
+						</File>
+						<File Id="594415834" Language="SFX">
+							<ShortName>snow_footsteps-010.wav</ShortName>
+							<Path>SFX/snow_footsteps-010_10C4C929.wem</Path>
+						</File>
+						<File Id="624140330" Language="SFX">
+							<ShortName>snow_footsteps-008.wav</ShortName>
+							<Path>SFX/snow_footsteps-008_10C4C929.wem</Path>
+						</File>
+						<File Id="642224031" Language="SFX">
+							<ShortName>snow_footsteps-006.wav</ShortName>
+							<Path>SFX/snow_footsteps-006_10C4C929.wem</Path>
+						</File>
+						<File Id="656534284" Language="SFX">
+							<ShortName>snow_footsteps-005.wav</ShortName>
+							<Path>SFX/snow_footsteps-005_10C4C929.wem</Path>
+						</File>
+						<File Id="808888639" Language="SFX">
+							<ShortName>footstep_stone_3.wav</ShortName>
+							<Path>SFX/footstep_stone_3_10C4C929.wem</Path>
+						</File>
+						<File Id="857766153" Language="SFX">
+							<ShortName>footstep_stone_8.wav</ShortName>
+							<Path>SFX/footstep_stone_8_10C4C929.wem</Path>
+						</File>
+						<File Id="1031110363" Language="SFX">
+							<ShortName>snow_footsteps-002.wav</ShortName>
+							<Path>SFX/snow_footsteps-002_10C4C929.wem</Path>
+						</File>
+						<File Id="1049907192" Language="SFX">
+							<ShortName>footstep_stone_7.wav</ShortName>
+							<Path>SFX/footstep_stone_7_10C4C929.wem</Path>
+						</File>
+						<File Id="1064817266" Language="SFX">
+							<ShortName>snow_footsteps-001.wav</ShortName>
+							<Path>SFX/snow_footsteps-001_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{24EF4391-B53D-4DF4-BA22-7A8D9C32AAB9}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{24EF4391-B53D-4DF4-BA22-7A8D9C32AAB9}">
+							<Media>
+								<File Id="224615131"/>
+								<File Id="229340490"/>
+								<File Id="232244699"/>
+								<File Id="380687480"/>
+								<File Id="386465276"/>
+								<File Id="531011539"/>
+								<File Id="564154673"/>
+								<File Id="808888639"/>
+								<File Id="857766153"/>
+								<File Id="1049907192"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E81E25F1-B958-4043-8E94-6E8E9B425E94}">
+							<Media>
+								<File Id="163864634"/>
+								<File Id="253208913"/>
+								<File Id="254192225"/>
+								<File Id="320062875"/>
+								<File Id="594415834"/>
+								<File Id="624140330"/>
+								<File Id="642224031"/>
+								<File Id="656534284"/>
+								<File Id="1031110363"/>
+								<File Id="1064817266"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="1834394558" Name="surface" ObjectPath="\Switches\Default Work Unit\surface" GUID="{C4717D92-7156-4A80-ABC2-F31F5E0DE80F}">
+					<Switches>
+						<Switch Id="787898836" Name="snow" ObjectPath="\Switches\Default Work Unit\surface\snow" GUID="{E81E25F1-B958-4043-8E94-6E8E9B425E94}"/>
+						<Switch Id="1216965916" Name="stone" ObjectPath="\Switches\Default Work Unit\surface\stone" GUID="{24EF4391-B53D-4DF4-BA22-7A8D9C32AAB9}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
